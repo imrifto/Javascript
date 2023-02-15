@@ -1,0 +1,1 @@
+// parseFloat will show the vognagso like 4.00, 5.00, 1.11 !
