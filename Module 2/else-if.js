@@ -1,5 +1,5 @@
 // else if : using multiple rules :
-var myMoney = 400;
+var myMoney = 2;
 var iphone  = 100000;
 var k20Pro  = 20000;
 var nokia   = 1000;
